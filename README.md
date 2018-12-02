@@ -23,13 +23,11 @@ We left Local Hack Day as a team of 4 friends, and we think Chat Filter has some
 #### What challenges did we face, and how did we overcome them?
 
 Our unfamiliarity with JavaScript blocked us for awhile because some of its nuances stopped our HTTP posts from working. 
-Nevertheless, with three of our mentors, Conrad Muan, Albert Xing, and Alicja Raszkowska provided us with appropriate alternatives and solutions so that we could continue.
+Nevertheless, three of our mentors, Conrad Muan, Albert Xing, and Alicja Raszkowska provided us with appropriate alternatives and solutions so that we could continue.
 
 In addition, we learned to parse JSON objects that were required for interaction with Azure, for which we want to give a shout out to well-done documentation @Microsoft.
 
 #### Future Ideas:
-
-Chat Filter could reply in threads instead of the channel directly in order to minimize visual clutter.
 
 Customize Positive and Negative Messages
 
